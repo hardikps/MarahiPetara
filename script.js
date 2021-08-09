@@ -17,7 +17,7 @@ window.onload = () =>{
                     name : 'गाभुळलेली चिंच',
                     artist : 'petarateam',
                     image :'gc.jpg',
-                    songUrl :'gc.wav',
+                    songUrl :'https://drive.google.com/file/d/1FtqilMR4E6jCwKsMkTN4_JwTqt-nSQmI/view?usp=sharing',
                     duration :'08:02' 
                 },
                 {
